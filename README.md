@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-** This is Taifur Rahaman (Aflat Taif)
+#### This is Taifur Rahaman (Aflat Taif)
 
 
 - 🔭 I’m currently working on a software company called Bug Finder as Flutter app devloper.
@@ -39,6 +39,14 @@ Let me know if you'd like me to fine-tune this further to align with specific go
 ⏳ "I spend 20% of my time coding and 80% trying to center widgets."
 🌌 "Dark mode makes everything better – even my code editor."
 🛠️ "I write clean code, but my desk? That's another story!"
+
+
+Photos:
+
+![IMG_5931~2](https://github.com/user-attachments/assets/f267eefc-420a-4361-8e9b-ac4d3289f5ef), ![IMG_5920~2](https://github.com/user-attachments/assets/eef7c81d-31a1-40d9-8ccd-5cca04e995b8)
+
+
+
 
 
 
