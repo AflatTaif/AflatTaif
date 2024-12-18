@@ -43,7 +43,6 @@ Let me know if you'd like me to fine-tune this further to align with specific go
 
 Photos:
 
-<img src="https://github.com/user-attachments/assets/f267eefc-420a-4361-8e9b-ac4d3289f5ef" alt="IMG_5931~2" width="400" height="550" style="border-radius:50px;">
 <img src="https://github.com/user-attachments/assets/eef7c81d-31a1-40d9-8ccd-5cca04e995b8" alt="IMG_5920~2" width="400" height="550" style="border-radius:50px;">
 
 
