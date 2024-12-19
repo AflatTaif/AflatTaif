@@ -41,7 +41,7 @@ Let me know if you'd like me to fine-tune this further to align with specific go
 🛠️ "I write clean code, but my desk? That's another story!"
 
 
-### Happy Coding<3333
+###  <333 Happy Coding <333
 
 ![DALL·E 2024-11-19 10 15 19 - A modern, minimalistic tech workspace in a cozy room  The workspace includes a clean desk setup with a laptop displaying code, a second monitor showin](https://github.com/user-attachments/assets/1de729b5-4fc4-4b8f-b93b-9345774849c1)
 
