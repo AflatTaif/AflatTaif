@@ -1,5 +1,7 @@
 
-<img src="https://github.com/user-attachments/assets/eef7c81d-31a1-40d9-8ccd-5cca04e995b8" alt="IMG_5920~2"  style="border-radius:50px;">
+![Untitled design](https://github.com/user-attachments/assets/c582ef6d-46c6-4fec-baa9-6f5d2b74cdeb)
+
+
 
 ### Hi there 👋
 
